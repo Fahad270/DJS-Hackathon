@@ -3,11 +3,11 @@
 ## Team Details
 - **Team Name:** TEAM LOOSERS
 - **Team Members:**
-  1. Faahd Syed
+  1. Fahad Syed
   2. Hamzah Shaikh
   3. Alston Miranda
   4. Ashutosh Sononey
-- **Event:** DJ-HACK 2026
+
 - **Project Title:** SentinelAgent – Dynamic Identity & Behavior Drift Monitor for Autonomous AI
 
 ## Problem Statement
